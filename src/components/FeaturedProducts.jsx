@@ -81,7 +81,7 @@ const FeaturedProducts = () => {
           <div className='text-center mb-12'>
             <h2 className='text-3xl font-bold mb-2'>Featured Products</h2>
             <p className='text-gray-600'>
-              Premium motorcycle gear and parts selected for you
+              Premium eyewear selected for you
             </p>
           </div>
 

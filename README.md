@@ -1,7 +1,7 @@
 ```markdown
-# MotoLabPitShop Frontend
+# ClassicOptics Frontend
 
-Welcome to the MotoLabPitShop frontend! This application serves as the user interface for interacting with the MotoLabPitShop API, providing a seamless experience for users to manage their orders and accounts.
+Welcome to the ClassicOptics frontend! This application serves as the user interface for interacting with the ClassicOptics API, providing a seamless experience for users to manage their orders and accounts.
 
 ## 🚀 Features
 
@@ -25,7 +25,7 @@ Welcome to the MotoLabPitShop frontend! This application serves as the user inte
 
 - Node.js (v16.x or higher)
 - React (v17.x or higher)
-- Access to the MotoLabPitShop API
+- Access to the ClassicOptics API
 
 ## ⚙️ Environment Variables
 
@@ -42,8 +42,8 @@ REACT_APP_API_URL=http://localhost:8000/api
 1. Clone the repository
 ```
 
-git clone https://github.com/yourusername/motolabpitshop-frontend.git
-cd motolabpitshop-frontend
+git clone https://github.com/yourusername/classicoptics-frontend.git
+cd classicoptics-frontend
 
 ```
 
@@ -89,7 +89,7 @@ npm run build
 
 ```
 
-motolabpitshop-frontend/
+classicoptics-frontend/
 ├── public/
 │   └── index.html         \# Main HTML file
 ├── src/

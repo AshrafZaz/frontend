@@ -110,7 +110,7 @@ const AllProductsCategory = () => {
               transition={{ duration: 0.6, delay: 0.2 }}
               className='text-gray-600 max-w-xl mx-auto'
             >
-              Browse our extensive collection of premium motorcycle gear, parts,
+              Browse our extensive collection of premium eyewear,
               and accessories
             </motion.p>
           </div>
